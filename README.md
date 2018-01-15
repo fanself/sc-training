@@ -1,2 +1,2 @@
 # sc-training
-spring cloud工程教学
+spring cloud training projects
